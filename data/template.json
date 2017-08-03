@@ -1,0 +1,19 @@
+{
+  "config": {
+    "copySetting": [
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F1"
+          ],
+          "load": [
+            "Ctrl",
+            "1"
+          ]
+        },
+        "content": "123123123adfadf"
+      }
+    ]
+  }
+}

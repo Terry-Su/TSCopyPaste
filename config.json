@@ -1,0 +1,84 @@
+{
+  "config": {
+    "copySetting": [
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F1"
+          ],
+          "load": [
+            "Ctrl",
+            "1"
+          ]
+        },
+        "content": "11123"
+      },
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F2"
+          ],
+          "load": [
+            "Ctrl",
+            "2"
+          ]
+        },
+        "content": "2"
+      },
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F3"
+          ],
+          "load": [
+            "Ctrl",
+            "3"
+          ]
+        },
+        "content": "3"
+      },
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F4"
+          ],
+          "load": [
+            "Ctrl",
+            "4"
+          ]
+        },
+        "content": "4"
+      },
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F5"
+          ],
+          "load": [
+            "Ctrl",
+            "5"
+          ]
+        },
+        "content": "5"
+      },
+      {
+        "key": {
+          "save": [
+            "Ctrl",
+            "F6"
+          ],
+          "load": [
+            "Ctrl",
+            "6"
+          ]
+        },
+        "content": "6"
+      }
+    ]
+  }
+}
