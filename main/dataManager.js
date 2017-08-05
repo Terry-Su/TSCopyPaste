@@ -16,7 +16,7 @@ const dataManager = {
 
   set(json) {
     try {
-      fs.writeFileSync(dataPath, JSON.stringify(json))
+      fs.writeFileSync(dataPath, JSON.stringify(json, null, 4))
     } catch (e) {
       fs.writeFileSync(dataErrorPath, e.toString())
       console.log(e)
