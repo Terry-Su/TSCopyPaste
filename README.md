@@ -5,7 +5,7 @@
 It's convenient if there exsit mutilple shortcuts like:    
 <kbd>Control/Command</kbd> + <kbd>F1</kbd> , <kbd>Control/Command</kbd> + <kbd>1</kbd>    
 <kbd>Control/Command</kbd> + <kbd>F2</kbd> , <kbd>Control/Command</kbd> + <kbd>2</kbd>    
-...  
+......  
 
 
 # Screeshot
