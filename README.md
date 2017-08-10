@@ -1,6 +1,6 @@
 # Introduction
 **TSCopyPaste**(Cross platform) helps us copy and paste mutiple texts.  
-"Copy" and "Paste" can the frequently actions in daily work, and we need to copy lots of items sometimes, however, we can only two shortcuts: <kbd>Control/Command</kbd> + <kbd>C</kbd> and <kbd>Control/Command</kbd> + <kbd>C</kbd>.   
+"Copy" and "Paste" can be one of the most frequently used actions in daily work. Sometimes we need to copy lots of text items , however, we can just only two shortcuts: <kbd>Control/Command</kbd> + <kbd>C</kbd> and <kbd>Control/Command</kbd> + <kbd>C</kbd>.   
 It's convenient if there exsit mutilple shortcuts like:  
 <kbd>Control/Command</kbd> + <kbd>F1</kbd> (Copy item1), <kbd>Control/Command</kbd> + <kbd>1</kbd> (Paste item1)  
 <kbd>Control/Command</kbd> + <kbd>F2</kbd> (Copy item2), <kbd>Control/Command</kbd> + <kbd>2</kbd> (Paste item2)   
