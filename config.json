@@ -12,7 +12,7 @@
                         "1"
                     ]
                 },
-                "content": "123"
+                "content": "1 (Windows)"
             },
             {
                 "key": {
@@ -25,7 +25,7 @@
                         "2"
                     ]
                 },
-                "content": "2"
+                "content": "2 (Windows)"
             },
             {
                 "key": {
@@ -38,7 +38,33 @@
                         "3"
                     ]
                 },
-                "content": "3"
+                "content": "3 (Windows)"
+            },
+            {
+                "key": {
+                    "save": [
+                        "Ctrl",
+                        "F4"
+                    ],
+                    "load": [
+                        "Ctrl",
+                        "4"
+                    ]
+                },
+                "content": "4 (Windows)"
+            },
+            {
+                "key": {
+                    "save": [
+                        "Ctrl",
+                        "F5"
+                    ],
+                    "load": [
+                        "Ctrl",
+                        "5"
+                    ]
+                },
+                "content": "5 (Windows)"
             },
             {
                 "key": {
@@ -51,7 +77,7 @@
                         "1"
                     ]
                 },
-                "content": "1"
+                "content": "1 (Mac)"
             },
             {
                 "key": {
@@ -64,7 +90,7 @@
                         "2"
                     ]
                 },
-                "content": "1"
+                "content": "2(Mac)"
             },
             {
                 "key": {
@@ -77,7 +103,33 @@
                         "3"
                     ]
                 },
-                "content": "1"
+                "content": "3(Mac)"
+            },
+            {
+                "key": {
+                    "save": [
+                        "Command",
+                        "F4"
+                    ],
+                    "load": [
+                        "Command",
+                        "4"
+                    ]
+                },
+                "content": "4(Mac)"
+            },
+            {
+                "key": {
+                    "save": [
+                        "Command",
+                        "F5"
+                    ],
+                    "load": [
+                        "Command",
+                        "5"
+                    ]
+                },
+                "content": "5(Mac)"
             }
         ]
     }
