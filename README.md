@@ -1,10 +1,10 @@
 # Introduction
 **TSCopyPaste** is a cross platform desktop app helps us copy and paste mutiple texts.  
 "Copy" and "Paste" can be frequently used in daily work. Sometimes we need to copy lots of text items sometimes, however, we can just only two shortcuts:   
-<kbd>Control/Command</kbd> + <kbd>C</kbd> and <kbd>Control/Command</kbd> + <kbd>V</kbd>.   
-It's convenient if there exsit mutilple shortcuts like:  
-<kbd>Control/Command</kbd> + <kbd>F1</kbd> , <kbd>Control/Command</kbd> + <kbd>1</kbd> 
-<kbd>Control/Command</kbd> + <kbd>F2</kbd> , <kbd>Control/Command</kbd> + <kbd>2</kbd> 
+<kbd>Control/Command</kbd> + <kbd>C</kbd> and <kbd>Control/Command</kbd> + <kbd>V</kbd>.     
+It's convenient if there exsit mutilple shortcuts like:    
+<kbd>Control/Command</kbd> + <kbd>F1</kbd> , <kbd>Control/Command</kbd> + <kbd>1</kbd>    
+<kbd>Control/Command</kbd> + <kbd>F2</kbd> , <kbd>Control/Command</kbd> + <kbd>2</kbd>    
 ...  
 
 
